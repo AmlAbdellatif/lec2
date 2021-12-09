@@ -15,3 +15,20 @@ git push origin dev
 git push origin test
 git checkout main
 git merge dev
+to romve bracn 
+1- ermotly 
+   git push origin :test
+   2-licaly
+   git branch -d test
+    
+    
+ to make annoted tag
+ git tag -a  v1.0 -m "my version"
+ git push origin v1.0
+ git tag
+ 
+  to delete tag:
+  1-remotely
+  git push origin :refs/tage/v1.0
+  2-localy
+  git tag -d v1.0
