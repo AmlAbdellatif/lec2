@@ -1,4 +1,4 @@
-mkdir lec2
+mkdir lec3
 git init
 touch amlabdellatif
 git add .
