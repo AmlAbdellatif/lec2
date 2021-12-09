@@ -17,7 +17,7 @@ import foobar
  
  
  # contributing
- pull requests are welcome .for major changes, lpease open an issue first discuss whar you 
+ pull requests are welcome .for major changes, lpease open an issue first discuss whar you\
  would  like to change
  
  please make sure to update test as appropriate
@@ -25,4 +25,4 @@ import foobar
  # license
  [MIT](WWW.MIT.COM)
  
- ![](https://images.app.goo.gl/Zk4NRzmfmj5rk9FM6)
+ ![](https://github.com/AmlAbdellatif/lec2/blob/main/img/Screenshot%20from%202021-12-09%2014-05-45.png)
