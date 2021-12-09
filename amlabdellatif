@@ -1,0 +1,17 @@
+mkdir lec2
+git init
+touch amlabdellatif
+git add .
+git commit -m "LAB2"
+git remote add origin git@github.com:AmlAbdellatif/lec2.git
+git branch -M main
+git push origin main
+git branch test
+git brach dev
+git checkout dev
+touch file
+touch file1
+git push origin dev
+git push origin test
+git checkout main
+git merge dev
